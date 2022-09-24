@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_preorder = gores through binary tree using preoprder travesal.
+ * binary_tree_preorder - gores through binary tree using preoprder travesal.
  * and performs function call on ech node.
  * @tree: pointer to root of tree
  * @func: pointer to function call for each node
