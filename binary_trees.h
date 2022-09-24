@@ -8,6 +8,12 @@
 #include <stdbool.h>
 #include <limits.h>
 
+
+/* MACROS */
+#define MAX(a, b) ((a) > (b) ? (a) : (b))
+
+/* Basic Binary tree struct */
+
 /**
  * struct binary_tree_s - Binary tree node
  *
